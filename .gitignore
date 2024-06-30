@@ -1,0 +1,4 @@
+*.txt
+*.json
+__pycache__/*
+client_secret.json
